@@ -1,0 +1,21 @@
+header{
+    width: 100%;
+    height: 15%;
+    display: flex;
+    flex-direction: row;
+}
+
+header>.left-section{
+    width: 20%;
+    height: 100%;
+}
+
+header>.middle-section{
+    width: 60%;
+    height: 100%;
+}
+
+header>.right-section{
+    width: 20%;
+    height: 100%;
+}
