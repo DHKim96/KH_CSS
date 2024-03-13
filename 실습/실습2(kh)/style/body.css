@@ -1,30 +1,9 @@
 body{
-    margin: 0;
+    margin: auto;
     padding: 0;
-    min-height: 1000px;
+    height: 1000px;
     width: 1200px;
-    max-height: max-content;
     font-family: "Noto Sans KR", sans-serif;
-}
-
-header{
-    width: 100%;
-    height: 15%;
-}
-
-nav{
-    width: 100%;
-    height: 10%;
-}
-
-main{
-    width: 100%;
-    height: 55%;
-}
-
-footer{
-    width: 100%;
-    height: 20%;
 }
 
 div{
