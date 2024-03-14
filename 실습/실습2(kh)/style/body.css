@@ -6,7 +6,10 @@ body{
     font-family: "Noto Sans KR", sans-serif;
 }
 
-div{
+div,
+input,
+img,
+p{
     box-sizing: border-box;
 }
 

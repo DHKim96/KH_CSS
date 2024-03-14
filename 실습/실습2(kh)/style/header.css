@@ -51,6 +51,7 @@ header>.middle-section{
 
 .search-button>img{
     height: 20px;
+    background-image: url(icon/search.png) no-repeat center/contain;
 }
 
 header>.right-section{
